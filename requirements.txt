@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+streamlit
+jupyter
+nbformat
+ucimlrepo
